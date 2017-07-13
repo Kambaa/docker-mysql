@@ -1,5 +1,6 @@
 # docker-mysql
-Docker mysql setup for development purposes
+Docker mysql setup for development purposes.
+
 My laptop was slowing down and it took 10 minutes to shut down, so i formatted my laptop and decided to learn docker and
 use mysql on a docker container. I learned that if you use volume thingy, and mapping it to the spesific directory in
 a docker, you can reuse that state whenever you can. 
