@@ -7,7 +7,7 @@ a docker, you can reuse that state whenever you can.
 Installation instructions: 
 - run first-time-start.sh (it runs with sudo so just enter your account password on the new opened terminal).
 
-You should be ready to use it on your local mysql port (localhost:3306 or 127.0.0.1:3306, root password is currently 1234565)
+You should be ready to use it on your local mysql port (localhost:3306 or 127.0.0.1:3306, root password is currently 1234565, if you wanna chane it, just open first-time-start.sh with a text editor and replace it)
 
 Misc infos:
 - To stop the container, just run stop.sh
